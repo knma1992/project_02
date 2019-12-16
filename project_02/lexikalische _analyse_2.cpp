@@ -165,6 +165,7 @@ int CParser::yyparse()
 			c_stage = Empty;
 			line = (int)IP_LineNumber;
 		}
+
 		// In order for the Nodes to pass, every line has to fit certain parameter
 		// Every valid node has to be:
 		// NET -> Nxxx -> ( -> xxx -> , -> xxx -> )
