@@ -1,0 +1,12 @@
+void main()
+{
+	int a, b, c;
+	c = a + b;
+	a;
+	b;
+	break;
+	1
+	29
+	3
+	43
+}
